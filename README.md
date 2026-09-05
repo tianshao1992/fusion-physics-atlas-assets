@@ -15,8 +15,8 @@ commit and new file digests rather than replacing an existing pinned object.
 Published bundle directories:
 
 - `iter-high-detail-v1/`: 18 reviewed ITER educational visualization shards.
-- `exl50u-general-assembly-v1/`: one anonymous standard preview and 20
-  anonymous high-detail transport shards. These files retain approximate
+- `exl50u-general-assembly-v1/`: 20 anonymous high-detail transport shards;
+  no standard preview or runtime fallback is published. These files retain approximate
   metre-scale visualization geometry, but contain no source CAD file, PMI,
   dimension annotations, authoritative dimension table, BOM, material table or
   source assembly-tree labels and must not be used as engineering dimensions.
